@@ -1,4 +1,4 @@
-<img width="1162" alt="Screenshot 2024-03-08 at 12 13 47 PM" src="https://github.com/pratishthabatra/powerbi-reports/assets/146027981/5ccea631-bd7c-4f07-ad92-463cbbcc409d"># EIU -  Democracy Index
+# EIU -  Democracy Index
 
 ${\textsf{\textbf{\color{blue}OVERVIEW}}}$
 
